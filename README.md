@@ -1,2 +1,2 @@
 # grupoatomos
-Repositorio de codigos
+Repositorio de codigos do Grupo Átomos
