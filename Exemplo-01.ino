@@ -28,7 +28,7 @@ const int led = D5; // pino onde o LED está conectado(Pino13)
  * A função setup() é chamada quando um Sketch (programa) é iniciado. 
  * É uada para inicializar variáveis, funções dos pin,definir as bibliotecas que 
  * serão usadas em conjunto, etc. 
- * A setup()função só será executada apenas uma vez, após cada inicialização ou 
+ * O Função void setup() só será executada apenas uma vez, após cada inicialização ou 
  * reinicialização da placa
  ******************************************************************************/
 void setup() {
@@ -37,13 +37,13 @@ void setup() {
 }
 
 /*******************************************************************************
- * função void loop(), repete-se consecutivamente enaqunto a placa estiver ligada,
- * permitindo o seu programa mudar e responder a essas mudanças provocadas pela 
- * lógica de sua programação.
+ * A função void loop(), repete-se consecutivamente enaqunto a placa estiver ligada,
+ * permitindo com que o seu programa possa executar e responder conforme as  
+ * solicitações defnidas na programação .
  *******************************************************************************/
 void loop() {
   digitalWrite(led, HIGH); // essa função acende o LED
   delay(1000); // aguarda 1 segundo
   digitalWrite(led, LOW); // apaga o LED
-  delay(1000); // aguarda 1 segundo
-}
+  delay(1000); // aguarda 1 segundo e volta novamente ao inicio da void loop.
+} 
