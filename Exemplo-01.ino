@@ -7,8 +7,8 @@
 * Como programar o NodeMCU com a IDE do Arduino 
 * Descrição: Pisca o LED conectado ao pino 13.
 * Empresa: Átomos Eletrotécnica
-* Site:http://grupoatomos.com.br/
-* Data:21/02/2018
+* Site: http://grupoatomos.com.br/
+* Data: 21/02/2018
 * Autor: Jurandir Hora.
 * Referência: https://www.arduino.cc/reference/pt/#page-title
 * Repositório: https://github.com/JurandirHora/grupoatomos/blob/master/Exemplo-01.ino
@@ -20,7 +20,7 @@
 /*******************************************************************************
  Assim como uma variável, uma constante também armazena um valor na memória do 
  microcontrolador, entretanto, esse valor não pode ser alterado e é obrigatória 
- que haja uma atribuiçao (no caso led) do valor.
+ que haja uma atribuiçao do valor (no caso o pino onde será ligado ao led) .
  ******************************************************************************/
 const int led = D5; // pino onde o LED está conectado(Pino13)
 
