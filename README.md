@@ -88,4 +88,5 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](L
 * Gorjeta para qualquer pessoa cujo código foi usado
 * Inspiração
 * Billie Thompson
+* Professor José de Assis
 * etc
