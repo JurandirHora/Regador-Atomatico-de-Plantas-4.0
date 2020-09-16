@@ -35,56 +35,56 @@ until finished
 
 Termine com um exemplo de como obter alguns dados do sistema ou usá-los para uma pequena demonstração
 
-## Running the tests
+##Executando os testes
 
-Explain how to run the automated tests for this system
+Explique como executar os testes automatizados para este sistema
 
-### Break down into end to end tests
+### Divida em testes de ponta a ponta
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
+Explique o que esses testes testam e por que
 
 ```
 Give an example
 ```
 
-## Deployment
+### Give an example
 
-Add additional notes about how to deploy this on a live system
+Explique o que esses testes testam e por que
 
-## Built With
+```
+Give an example
+```
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+## Desdobramento, desenvolvimento
 
-## Contributing
+Adicionar notas adicionais sobre como implantar isso em um sistema ativo
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+## Construído com
 
-## Versioning
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - A estrutura da web usada
+* [Maven](https://maven.apache.org/) - Gerenciamento de Dependências
+* [ROME](https://rometools.github.io/rome/) - Usado para gerar RSS Feeds
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+## Contribuindo
 
-## Authors
+Leia [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) para obter detalhes sobre nosso código de conduta e o processo de envio de solicitações pull para nós.
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+## Controle de versão
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, consulte as [tags on this repository](https://github.com/your/project/tags). 
 
-## License
+## Autores
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* **Jurandir Hora** - *Trabalho inicial* - [PurpleBooth](https://github.com/PurpleBooth)
 
-## Acknowledgments
+Veja também a lista de [contributors](https://github.com/your/project/contributors) que participaram deste projeto.
 
-* Hat tip to anyone whose code was used
-* Inspiration
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes
+
+## Agradecimentos
+
+* Gorjeta para qualquer pessoa cujo código foi usado
+* Inspiração
 * etc
