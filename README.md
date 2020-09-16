@@ -75,9 +75,9 @@ Usamos [SemVer](http://semver.org/) para controle de versão. Para as versões d
 
 ## Autores
 
-* **Jurandir Hora** - *Trabalho inicial* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Jurandir Hora** - *Trabalho inicial* - [Jurandir Hora](https://gist.github.com/JurandirHora)
 
-Veja também a lista de [contributors](https://github.com/your/project/contributors) que participaram deste projeto.
+Veja também a lista de [colaboradores](https://www.grupoatomos.com.br/) que participaram deste projeto.
 
 ## Licença
 
